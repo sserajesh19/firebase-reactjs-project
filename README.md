@@ -1,2 +1,2 @@
-# firebase-reactjs-project-
-Complete Firebase React
+# firebase-reactjs-project
+Complete Firebase ReactJS
